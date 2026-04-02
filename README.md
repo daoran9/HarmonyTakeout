@@ -1,0 +1,2 @@
+# HarmonyTakeout
+ArkTS编写的HarmonyOS的外卖软件
